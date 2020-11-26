@@ -1,5 +1,6 @@
 # Flex-HTMLDeepDive
-Jaymar Westerlow SD1Aa
+Naam:	Jaymar Westerlow
+Klas:	SD1Aa
 
 ![](HTML5.png)
 
